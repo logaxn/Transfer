@@ -1,0 +1,8 @@
+{
+    "token": "you should have this from the devloper docs on discord.",
+    "mysql": {
+        "host": "ip",
+        "user": "user",
+        "password": "password"
+    }
+}

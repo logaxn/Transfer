@@ -1,0 +1,4468 @@
+[
+    [
+        1531540800000,
+        {
+            "name": "Abyss backup holo",
+            "region": "eu-west",
+            "afkTimeout": 900,
+            "verificationLevel": 0,
+            "explicitContentFilter": 0,
+            "mfaLevel": 0,
+            "icon": "https://cdn.discordapp.com/icons/467102216306819075/ffd2b7c0c1dbf5838c05e4b65771511c.webp",
+            "afkChannelID": "467410918435979285",
+            "emojis": [
+                {
+                    "name": "geckomindtelecastertux2287",
+                    "url": "https://cdn.discordapp.com/emojis/467410891252695040.png",
+                    "id": "467410891252695040"
+                },
+                {
+                    "name": "geckomindtelecastertux2287",
+                    "url": "https://cdn.discordapp.com/emojis/467414985954295808.png",
+                    "id": "467414985954295808"
+                },
+                {
+                    "name": "geckomindtelecastertux2287",
+                    "url": "https://cdn.discordapp.com/emojis/467415303995785223.png",
+                    "id": "467415303995785223"
+                }
+            ],
+            "channels": [
+                {
+                    "name": "crypto",
+                    "type": "text",
+                    "parent": "467410909388603392",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410924551012352",
+                    "position": 3
+                },
+                {
+                    "name": "cracking-methods",
+                    "type": "text",
+                    "parent": "467410909787062292",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410945388576768",
+                    "position": 1
+                },
+                {
+                    "name": "companies-infos",
+                    "type": "text",
+                    "parent": "467410911578030090",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894440103947",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410919698464768",
+                    "position": 3
+                },
+                {
+                    "name": "cracking-showoff",
+                    "type": "text",
+                    "parent": "467410909787062292",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410929697423391",
+                    "position": 2
+                },
+                {
+                    "name": "Refund",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467410910802083850",
+                    "position": 4
+                },
+                {
+                    "name": "se-resources",
+                    "type": "text",
+                    "parent": "467410911578030090",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894440103947",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410917831868466",
+                    "position": 2
+                },
+                {
+                    "name": "se-showoff",
+                    "type": "text",
+                    "parent": "467410911578030090",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894440103947",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410952330018857",
+                    "position": 1
+                },
+                {
+                    "name": "auttaja-logging",
+                    "type": "text",
+                    "parent": "467410911251005470",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410923531927553",
+                    "position": 2
+                },
+                {
+                    "name": "se-chat",
+                    "type": "text",
+                    "parent": "467410911578030090",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894440103947",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410938459324418",
+                    "position": 0
+                },
+                {
+                    "name": "Staff",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467410909875404801",
+                    "position": 7
+                },
+                {
+                    "name": "valuable-resources",
+                    "type": "text",
+                    "parent": "467410908910452736",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410891907006464",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892217122818",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894440103947",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410946621440011",
+                    "position": 3
+                },
+                {
+                    "name": "rep-review",
+                    "type": "text",
+                    "parent": "467410911578030090",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894440103947",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410953856614412",
+                    "position": 4
+                },
+                {
+                    "name": "announcements",
+                    "type": "text",
+                    "parent": "467410911251005470",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410927562522635",
+                    "position": 0
+                },
+                {
+                    "name": "Cracker testing room",
+                    "type": "voice",
+                    "parent": "467410912714686464",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410891907006464",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892766707712",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892217122818",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895702589450",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467410953206497290",
+                    "bitrate": 64000,
+                    "userLimit": 0,
+                    "position": 1
+                },
+                {
+                    "name": "french-fags",
+                    "type": "text",
+                    "parent": "467410911251005470",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410935116464140",
+                    "position": 6
+                },
+                {
+                    "name": "marketplace",
+                    "type": "text",
+                    "parent": "467410909388603392",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410893962215465",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410930855051264",
+                    "position": 0
+                },
+                {
+                    "name": "encrypt-test",
+                    "type": "text",
+                    "parent": "467410911251005470",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410936383406080",
+                    "position": 3
+                },
+                {
+                    "name": "scam-0066",
+                    "type": "text",
+                    "parent": "467410912320421888",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410892766707712",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410893563625475",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410943043698699",
+                    "position": 3
+                },
+                {
+                    "name": "refund-showoff",
+                    "type": "text",
+                    "parent": "467410910802083850",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410930251333632",
+                    "position": 2
+                },
+                {
+                    "name": "bragging-rights",
+                    "type": "text",
+                    "parent": "467410911251005470",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410925817823263",
+                    "position": 4
+                },
+                {
+                    "name": "drugs",
+                    "type": "text",
+                    "parent": "467410909388603392",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410923103977474",
+                    "position": 1
+                },
+                {
+                    "name": "bots",
+                    "type": "text",
+                    "parent": "467410911251005470",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410891907006464",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892766707712",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892217122818",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895514107926",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410933031895050",
+                    "position": 5
+                },
+                {
+                    "name": "helper-lounge",
+                    "type": "text",
+                    "parent": "467410909875404801",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410891907006464",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892766707712",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892217122818",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892183568407",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410928619487275",
+                    "position": 0
+                },
+                {
+                    "name": "General",
+                    "type": "voice",
+                    "parent": "467410912714686464",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895514107926",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467410918435979285",
+                    "bitrate": 64000,
+                    "userLimit": 0,
+                    "position": 0
+                },
+                {
+                    "name": "Social Engineering",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894440103947",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467410911578030090",
+                    "position": 1
+                },
+                {
+                    "name": "ralph_gen-0027",
+                    "type": "text",
+                    "parent": "467410912320421888",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410893563625475",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410933300330497",
+                    "position": 0
+                },
+                {
+                    "name": "crackers-lounge",
+                    "type": "text",
+                    "parent": "467410909787062292",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410940024061963",
+                    "position": 0
+                },
+                {
+                    "name": "valuable-showoff",
+                    "type": "text",
+                    "parent": "467410908910452736",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410891907006464",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892217122818",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894440103947",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410919908048897",
+                    "position": 2
+                },
+                {
+                    "name": "logs",
+                    "type": "text",
+                    "parent": "467410911251005470",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410891907006464",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892766707712",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892217122818",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892183568407",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410934135128086",
+                    "position": 8
+                },
+                {
+                    "name": "heads-talk",
+                    "type": "text",
+                    "parent": "467410909875404801",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410891907006464",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892217122818",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410893563625475",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894440103947",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895514107926",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410919073251333",
+                    "position": 2
+                },
+                {
+                    "name": "staff-talk",
+                    "type": "text",
+                    "parent": "467410909875404801",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410891907006464",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892217122818",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895514107926",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410951000293376",
+                    "position": 1
+                },
+                {
+                    "name": "guests",
+                    "type": "text",
+                    "parent": "467410911251005470",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410949339348992",
+                    "position": 7
+                },
+                {
+                    "name": "vouches",
+                    "type": "text",
+                    "parent": "467410909388603392",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410893962215465",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410926946091017",
+                    "position": 2
+                },
+                {
+                    "name": "refund-methods",
+                    "type": "text",
+                    "parent": "467410910802083850",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410948664066059",
+                    "position": 3
+                },
+                {
+                    "name": "se-methods",
+                    "type": "text",
+                    "parent": "467410911578030090",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894440103947",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410922462380032",
+                    "position": 5
+                },
+                {
+                    "name": "cracking-resources",
+                    "type": "text",
+                    "parent": "467410909787062292",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410937318604820",
+                    "position": 4
+                },
+                {
+                    "name": "ranks-request",
+                    "type": "text",
+                    "parent": "467410911251005470",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892217122818",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410941252861972",
+                    "position": 9
+                },
+                {
+                    "name": "Voice Channels",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467410912714686464",
+                    "position": 6
+                },
+                {
+                    "name": "gen-0060",
+                    "type": "text",
+                    "parent": "467410912320421888",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410892766707712",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410893563625475",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410947519021057",
+                    "position": 1
+                },
+                {
+                    "name": "global",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467410911251005470",
+                    "position": 0
+                },
+                {
+                    "name": "valuable-methods",
+                    "type": "text",
+                    "parent": "467410908910452736",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410891907006464",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892217122818",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894440103947",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410944394395648",
+                    "position": 1
+                },
+                {
+                    "name": "Cracking",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467410909787062292",
+                    "position": 3
+                },
+                {
+                    "name": "bot",
+                    "type": "text",
+                    "parent": "none",
+                    "permissionOverwrites": [],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467348694027730944",
+                    "position": 0
+                },
+                {
+                    "name": "valuable-discussion",
+                    "type": "text",
+                    "parent": "467410908910452736",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410891907006464",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892217122818",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894440103947",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410925155254283",
+                    "position": 0
+                },
+                {
+                    "name": "refund-advices",
+                    "type": "text",
+                    "parent": "467410910802083850",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410951747010580",
+                    "position": 1
+                },
+                {
+                    "name": "Others",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410893962215465",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467410909388603392",
+                    "position": 5
+                },
+                {
+                    "name": "Valuable",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467410908910452736",
+                    "position": 2
+                },
+                {
+                    "name": "noob-0062",
+                    "type": "text",
+                    "parent": "467410912320421888",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410892766707712",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410893563625475",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410921455616035",
+                    "position": 2
+                },
+                {
+                    "name": "refund-chat",
+                    "type": "text",
+                    "parent": "467410910802083850",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410920700903437",
+                    "position": 0
+                },
+                {
+                    "name": "cracking-mentorship",
+                    "type": "text",
+                    "parent": "467410909787062292",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410931870072844",
+                    "position": 3
+                },
+                {
+                    "name": "general",
+                    "type": "text",
+                    "parent": "467410911251005470",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410895216050176",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894964654090",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895459581972",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410895514107926",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410892183568407",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410894763065364",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467410942188191744",
+                    "position": 1
+                },
+                {
+                    "name": "Tickets",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467410892766707712",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896172351488",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896809885707",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467410896461758484",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467410912320421888",
+                    "position": 8
+                }
+            ],
+            "members": [
+                "198536269586890752",
+                "326358875840184321",
+                "436660351254265856",
+                "467077498535018506"
+            ],
+            "roles": [
+                {
+                    "name": "Admin",
+                    "color": 10038562,
+                    "hoist": false,
+                    "position": 67,
+                    "permissions": 2146958591,
+                    "mentionable": false,
+                    "id": "467325148823945217"
+                },
+                {
+                    "name": "Admin",
+                    "color": 16711680,
+                    "hoist": true,
+                    "position": 66,
+                    "permissions": 2146958591,
+                    "mentionable": true,
+                    "id": "467410891907006464"
+                },
+                {
+                    "name": "B0TS",
+                    "color": 0,
+                    "hoist": true,
+                    "position": 65,
+                    "permissions": 104324169,
+                    "mentionable": false,
+                    "id": "467410892183568407"
+                },
+                {
+                    "name": "Staff",
+                    "color": 3447003,
+                    "hoist": true,
+                    "position": 64,
+                    "permissions": 2146958591,
+                    "mentionable": true,
+                    "id": "467410892217122818"
+                },
+                {
+                    "name": "Helper",
+                    "color": 15844367,
+                    "hoist": true,
+                    "position": 63,
+                    "permissions": 1580719199,
+                    "mentionable": true,
+                    "id": "467410892766707712"
+                },
+                {
+                    "name": "Gaius Cicereius+",
+                    "color": 0,
+                    "hoist": true,
+                    "position": 62,
+                    "permissions": 289864,
+                    "mentionable": false,
+                    "id": "467410892972097546"
+                },
+                {
+                    "name": "Modulo",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 61,
+                    "permissions": 536210558,
+                    "mentionable": false,
+                    "id": "467410893030948905"
+                },
+                {
+                    "name": "Tickety",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 60,
+                    "permissions": 262216,
+                    "mentionable": false,
+                    "id": "467410893186007041"
+                },
+                {
+                    "name": "Auttaja",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 59,
+                    "permissions": 2113404159,
+                    "mentionable": false,
+                    "id": "467410893609893908"
+                },
+                {
+                    "name": "Support Team",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 58,
+                    "permissions": 104324161,
+                    "mentionable": false,
+                    "id": "467410893563625475"
+                },
+                {
+                    "name": "Trade Banned",
+                    "color": 1249810,
+                    "hoist": false,
+                    "position": 57,
+                    "permissions": 104193089,
+                    "mentionable": true,
+                    "id": "467410893962215465"
+                },
+                {
+                    "name": "Top Notch!",
+                    "color": 16733986,
+                    "hoist": true,
+                    "position": 56,
+                    "permissions": 104324161,
+                    "mentionable": true,
+                    "id": "467410894440103947"
+                },
+                {
+                    "name": "Cracker",
+                    "color": 14300624,
+                    "hoist": true,
+                    "position": 55,
+                    "permissions": 641059905,
+                    "mentionable": true,
+                    "id": "467410894763065364"
+                },
+                {
+                    "name": "Refunder",
+                    "color": 2779391,
+                    "hoist": true,
+                    "position": 54,
+                    "permissions": 104193089,
+                    "mentionable": true,
+                    "id": "467410894964654090"
+                },
+                {
+                    "name": "Social Engineer",
+                    "color": 3066993,
+                    "hoist": true,
+                    "position": 53,
+                    "permissions": 37084225,
+                    "mentionable": true,
+                    "id": "467410895216050176"
+                },
+                {
+                    "name": "Applicant",
+                    "color": 3735551,
+                    "hoist": true,
+                    "position": 52,
+                    "permissions": 37084225,
+                    "mentionable": true,
+                    "id": "467410895459581972"
+                },
+                {
+                    "name": "Cracker Test",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 51,
+                    "permissions": 104324161,
+                    "mentionable": false,
+                    "id": "467410895702589450"
+                },
+                {
+                    "name": "Gatekeeper",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 50,
+                    "permissions": 262208,
+                    "mentionable": false,
+                    "id": "467410895514107926"
+                },
+                {
+                    "name": "Gatekeeper",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 49,
+                    "permissions": 262208,
+                    "mentionable": false,
+                    "id": "467410896172351488"
+                },
+                {
+                    "name": "Gatekeeper",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 48,
+                    "permissions": 262208,
+                    "mentionable": false,
+                    "id": "467410896461758484"
+                },
+                {
+                    "name": "Gatekeeper",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 47,
+                    "permissions": 262208,
+                    "mentionable": false,
+                    "id": "467410896809885707"
+                },
+                {
+                    "name": "PollBot",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 46,
+                    "permissions": 289856,
+                    "mentionable": false,
+                    "id": "467410897023795200"
+                },
+                {
+                    "name": "Black Jack Backup",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 45,
+                    "permissions": 2080898303,
+                    "mentionable": false,
+                    "id": "467410897233641492"
+                },
+                {
+                    "name": "Modulo",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 44,
+                    "permissions": 536210558,
+                    "mentionable": false,
+                    "id": "467414987502125058"
+                },
+                {
+                    "name": "Trade Banned",
+                    "color": 1249810,
+                    "hoist": false,
+                    "position": 43,
+                    "permissions": 104193089,
+                    "mentionable": true,
+                    "id": "467414988403900441"
+                },
+                {
+                    "name": "B0TS",
+                    "color": 0,
+                    "hoist": true,
+                    "position": 42,
+                    "permissions": 104324169,
+                    "mentionable": false,
+                    "id": "467414986814259220"
+                },
+                {
+                    "name": "Staff",
+                    "color": 3447003,
+                    "hoist": true,
+                    "position": 41,
+                    "permissions": 2146958591,
+                    "mentionable": true,
+                    "id": "467414987019780116"
+                },
+                {
+                    "name": "Gaius Cicereius+",
+                    "color": 0,
+                    "hoist": true,
+                    "position": 40,
+                    "permissions": 289864,
+                    "mentionable": false,
+                    "id": "467414987124506648"
+                },
+                {
+                    "name": "Helper",
+                    "color": 15844367,
+                    "hoist": true,
+                    "position": 39,
+                    "permissions": 1580719199,
+                    "mentionable": true,
+                    "id": "467414987229364225"
+                },
+                {
+                    "name": "Support Team",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 38,
+                    "permissions": 104324161,
+                    "mentionable": false,
+                    "id": "467414988332597270"
+                },
+                {
+                    "name": "Top Notch!",
+                    "color": 16733986,
+                    "hoist": true,
+                    "position": 37,
+                    "permissions": 104324161,
+                    "mentionable": true,
+                    "id": "467414988760416258"
+                },
+                {
+                    "name": "Cracker",
+                    "color": 14300624,
+                    "hoist": true,
+                    "position": 36,
+                    "permissions": 641059905,
+                    "mentionable": true,
+                    "id": "467414989263863808"
+                },
+                {
+                    "name": "Tickety",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 35,
+                    "permissions": 262216,
+                    "mentionable": false,
+                    "id": "467414987967561729"
+                },
+                {
+                    "name": "Social Engineer",
+                    "color": 3066993,
+                    "hoist": true,
+                    "position": 34,
+                    "permissions": 37084225,
+                    "mentionable": true,
+                    "id": "467414989569916940"
+                },
+                {
+                    "name": "Auttaja",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 33,
+                    "permissions": 2113404159,
+                    "mentionable": false,
+                    "id": "467414988286590996"
+                },
+                {
+                    "name": "Refunder",
+                    "color": 2779391,
+                    "hoist": true,
+                    "position": 32,
+                    "permissions": 104193089,
+                    "mentionable": true,
+                    "id": "467414989590757397"
+                },
+                {
+                    "name": "Admin",
+                    "color": 16711680,
+                    "hoist": true,
+                    "position": 31,
+                    "permissions": 2146958591,
+                    "mentionable": true,
+                    "id": "467414986193371141"
+                },
+                {
+                    "name": "Cracker Test",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 30,
+                    "permissions": 104324161,
+                    "mentionable": false,
+                    "id": "467414990400258054"
+                },
+                {
+                    "name": "Gatekeeper",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 29,
+                    "permissions": 262208,
+                    "mentionable": false,
+                    "id": "467414990807105537"
+                },
+                {
+                    "name": "Applicant",
+                    "color": 3735551,
+                    "hoist": true,
+                    "position": 28,
+                    "permissions": 37084225,
+                    "mentionable": true,
+                    "id": "467414990136147988"
+                },
+                {
+                    "name": "PollBot",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 27,
+                    "permissions": 289856,
+                    "mentionable": false,
+                    "id": "467414993038737418"
+                },
+                {
+                    "name": "Gatekeeper",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 26,
+                    "permissions": 262208,
+                    "mentionable": false,
+                    "id": "467414991344238592"
+                },
+                {
+                    "name": "Gatekeeper",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 25,
+                    "permissions": 262208,
+                    "mentionable": false,
+                    "id": "467414990849048577"
+                },
+                {
+                    "name": "Black Jack Backup",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 24,
+                    "permissions": 2080898303,
+                    "mentionable": false,
+                    "id": "467414993286201354"
+                },
+                {
+                    "name": "Gatekeeper",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 23,
+                    "permissions": 262208,
+                    "mentionable": false,
+                    "id": "467414991788834817"
+                },
+                {
+                    "name": "Auttaja",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 22,
+                    "permissions": 2113404159,
+                    "mentionable": false,
+                    "id": "467415307502485505"
+                },
+                {
+                    "name": "Modulo",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 21,
+                    "permissions": 536210558,
+                    "mentionable": false,
+                    "id": "467415306806099975"
+                },
+                {
+                    "name": "B0TS",
+                    "color": 0,
+                    "hoist": true,
+                    "position": 20,
+                    "permissions": 104324169,
+                    "mentionable": false,
+                    "id": "467415305417785347"
+                },
+                {
+                    "name": "Gaius Cicereius+",
+                    "color": 0,
+                    "hoist": true,
+                    "position": 19,
+                    "permissions": 289864,
+                    "mentionable": false,
+                    "id": "467415306432938039"
+                },
+                {
+                    "name": "Cracker",
+                    "color": 14300624,
+                    "hoist": true,
+                    "position": 18,
+                    "permissions": 641059905,
+                    "mentionable": true,
+                    "id": "467415309335265292"
+                },
+                {
+                    "name": "Tickety",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 17,
+                    "permissions": 262216,
+                    "mentionable": false,
+                    "id": "467415306835591190"
+                },
+                {
+                    "name": "Support Team",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 16,
+                    "permissions": 104324161,
+                    "mentionable": false,
+                    "id": "467415307535777794"
+                },
+                {
+                    "name": "Staff",
+                    "color": 3447003,
+                    "hoist": true,
+                    "position": 15,
+                    "permissions": 2146958591,
+                    "mentionable": true,
+                    "id": "467415305971302440"
+                },
+                {
+                    "name": "Refunder",
+                    "color": 2779391,
+                    "hoist": true,
+                    "position": 14,
+                    "permissions": 104193089,
+                    "mentionable": true,
+                    "id": "467415309679329292"
+                },
+                {
+                    "name": "Helper",
+                    "color": 15844367,
+                    "hoist": true,
+                    "position": 13,
+                    "permissions": 1580719199,
+                    "mentionable": true,
+                    "id": "467415306290200586"
+                },
+                {
+                    "name": "Admin",
+                    "color": 16711680,
+                    "hoist": true,
+                    "position": 12,
+                    "permissions": 2146958591,
+                    "mentionable": true,
+                    "id": "467415305191292928"
+                },
+                {
+                    "name": "Top Notch!",
+                    "color": 16733986,
+                    "hoist": true,
+                    "position": 11,
+                    "permissions": 104324161,
+                    "mentionable": true,
+                    "id": "467415308991463426"
+                },
+                {
+                    "name": "Trade Banned",
+                    "color": 1249810,
+                    "hoist": false,
+                    "position": 10,
+                    "permissions": 104193089,
+                    "mentionable": true,
+                    "id": "467415308093751327"
+                },
+                {
+                    "name": "Black Jack Backup",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 9,
+                    "permissions": 2080898303,
+                    "mentionable": false,
+                    "id": "467415312128802826"
+                },
+                {
+                    "name": "Gatekeeper",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 8,
+                    "permissions": 262208,
+                    "mentionable": false,
+                    "id": "467415311231221761"
+                },
+                {
+                    "name": "Gatekeeper",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 7,
+                    "permissions": 262208,
+                    "mentionable": false,
+                    "id": "467415310543355925"
+                },
+                {
+                    "name": "Social Engineer",
+                    "color": 3066993,
+                    "hoist": true,
+                    "position": 6,
+                    "permissions": 37084225,
+                    "mentionable": true,
+                    "id": "467415310052622337"
+                },
+                {
+                    "name": "Cracker Test",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 5,
+                    "permissions": 104324161,
+                    "mentionable": false,
+                    "id": "467415310455013377"
+                },
+                {
+                    "name": "Gatekeeper",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 4,
+                    "permissions": 262208,
+                    "mentionable": false,
+                    "id": "467415311566635019"
+                },
+                {
+                    "name": "PollBot",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 3,
+                    "permissions": 289856,
+                    "mentionable": false,
+                    "id": "467415311768092683"
+                },
+                {
+                    "name": "Gatekeeper",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 2,
+                    "permissions": 262208,
+                    "mentionable": false,
+                    "id": "467415311470297089"
+                },
+                {
+                    "name": "Applicant",
+                    "color": 3735551,
+                    "hoist": true,
+                    "position": 1,
+                    "permissions": 37084225,
+                    "mentionable": true,
+                    "id": "467415310086045714"
+                }
+            ]
+        }
+    ],
+    [
+        1531454400000,
+        {
+            "name": "Abyss",
+            "region": "eu-west",
+            "afkTimeout": 900,
+            "verificationLevel": 0,
+            "explicitContentFilter": 0,
+            "mfaLevel": 0,
+            "icon": "9e77da99e2860907acc66ed2aedee37a",
+            "afkChannelID": "467388052248199168",
+            "emojis": [
+                {
+                    "name": "geckomindtelecastertux2287",
+                    "url": "https://cdn.discordapp.com/emojis/467387995193081856.png",
+                    "id": "467387995193081856"
+                }
+            ],
+            "channels": [
+                {
+                    "name": "Valuable",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467388017804574722",
+                    "position": 2
+                },
+                {
+                    "name": "se-resources",
+                    "type": "text",
+                    "parent": "467388016864919563",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387998825086978",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388037479792640",
+                    "position": 3
+                },
+                {
+                    "name": "General",
+                    "type": "voice",
+                    "parent": "467388016797679616",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467388000897204224",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467388052248199168",
+                    "bitrate": 64000,
+                    "userLimit": 0,
+                    "position": 0
+                },
+                {
+                    "name": "heads-talk",
+                    "type": "text",
+                    "parent": "467388015262564353",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387995838742528",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387996375744512",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387998825086978",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387998435147786",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000897204224",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388060615835661",
+                    "position": 2
+                },
+                {
+                    "name": "Others",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387998774755328",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467388017426956298",
+                    "position": 5
+                },
+                {
+                    "name": "companies-infos",
+                    "type": "text",
+                    "parent": "467388016864919563",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387998825086978",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388058128482315",
+                    "position": 5
+                },
+                {
+                    "name": "Cracking",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467388015866675200",
+                    "position": 4
+                },
+                {
+                    "name": "Staff",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467388015262564353",
+                    "position": 7
+                },
+                {
+                    "name": "valuable-showoff",
+                    "type": "text",
+                    "parent": "467388017804574722",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387995838742528",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387996375744512",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387998825086978",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388040147632148",
+                    "position": 2
+                },
+                {
+                    "name": "refund-chat",
+                    "type": "text",
+                    "parent": "467388018932580372",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388055808901151",
+                    "position": 0
+                },
+                {
+                    "name": "noob-0062",
+                    "type": "text",
+                    "parent": "467388018387451945",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387996627402762",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387998435147786",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388041032368138",
+                    "position": 3
+                },
+                {
+                    "name": "se-methods",
+                    "type": "text",
+                    "parent": "467388016864919563",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387998825086978",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388036892590128",
+                    "position": 2
+                },
+                {
+                    "name": "drugs",
+                    "type": "text",
+                    "parent": "467388017426956298",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388037912068097",
+                    "position": 3
+                },
+                {
+                    "name": "auttaja-logging",
+                    "type": "text",
+                    "parent": "467388016336568320",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388030487887882",
+                    "position": 6
+                },
+                {
+                    "name": "Refund",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467388018932580372",
+                    "position": 3
+                },
+                {
+                    "name": "crypto",
+                    "type": "text",
+                    "parent": "467388017426956298",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388034212691978",
+                    "position": 2
+                },
+                {
+                    "name": "valuable-discussion",
+                    "type": "text",
+                    "parent": "467388017804574722",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387995838742528",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387996375744512",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387998825086978",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388024645222400",
+                    "position": 0
+                },
+                {
+                    "name": "bragging-rights",
+                    "type": "text",
+                    "parent": "467388016336568320",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388055112777739",
+                    "position": 5
+                },
+                {
+                    "name": "vouches",
+                    "type": "text",
+                    "parent": "467388017426956298",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387998774755328",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388032111083530",
+                    "position": 1
+                },
+                {
+                    "name": "announcements",
+                    "type": "text",
+                    "parent": "467388016336568320",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388023860887554",
+                    "position": 0
+                },
+                {
+                    "name": "helper-lounge",
+                    "type": "text",
+                    "parent": "467388015262564353",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387995838742528",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387996086206464",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387996627402762",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387996375744512",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388036229890089",
+                    "position": 0
+                },
+                {
+                    "name": "cracking-showoff",
+                    "type": "text",
+                    "parent": "467388015866675200",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388041950920715",
+                    "position": 3
+                },
+                {
+                    "name": "refund-showoff",
+                    "type": "text",
+                    "parent": "467388018932580372",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388038868107272",
+                    "position": 3
+                },
+                {
+                    "name": "marketplace",
+                    "type": "text",
+                    "parent": "467388017426956298",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387998774755328",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388048666001418",
+                    "position": 0
+                },
+                {
+                    "name": "cracking-mentorship",
+                    "type": "text",
+                    "parent": "467388015866675200",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388054290563108",
+                    "position": 2
+                },
+                {
+                    "name": "bots",
+                    "type": "text",
+                    "parent": "467388016336568320",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387995838742528",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387996375744512",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000897204224",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387996627402762",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388028797845534",
+                    "position": 3
+                },
+                {
+                    "name": "ralph_gen-0027",
+                    "type": "text",
+                    "parent": "467388018387451945",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387998435147786",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388031452839956",
+                    "position": 0
+                },
+                {
+                    "name": "logs",
+                    "type": "text",
+                    "parent": "467388016336568320",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387995838742528",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387996086206464",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387996375744512",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387996627402762",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388051451150336",
+                    "position": 8
+                },
+                {
+                    "name": "french-fags",
+                    "type": "text",
+                    "parent": "467388016336568320",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388029779312667",
+                    "position": 4
+                },
+                {
+                    "name": "encrypt-test",
+                    "type": "text",
+                    "parent": "467388016336568320",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388059953135626",
+                    "position": 2
+                },
+                {
+                    "name": "cracking-resources",
+                    "type": "text",
+                    "parent": "467388015866675200",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388033528889354",
+                    "position": 4
+                },
+                {
+                    "name": "global",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467388016336568320",
+                    "position": 0
+                },
+                {
+                    "name": "se-chat",
+                    "type": "text",
+                    "parent": "467388016864919563",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387998825086978",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388027921235969",
+                    "position": 0
+                },
+                {
+                    "name": "crackers-lounge",
+                    "type": "text",
+                    "parent": "467388015866675200",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388044538937364",
+                    "position": 0
+                },
+                {
+                    "name": "Social Engineering",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387998825086978",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467388016864919563",
+                    "position": 1
+                },
+                {
+                    "name": "ranks-request",
+                    "type": "text",
+                    "parent": "467388016336568320",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387996375744512",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388056870322187",
+                    "position": 9
+                },
+                {
+                    "name": "general",
+                    "type": "text",
+                    "parent": "467388016336568320",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387996086206464",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000897204224",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388025295470612",
+                    "position": 1
+                },
+                {
+                    "name": "scam-0066",
+                    "type": "text",
+                    "parent": "467388018387451945",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387996627402762",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387998435147786",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388023374610442",
+                    "position": 2
+                },
+                {
+                    "name": "valuable-methods",
+                    "type": "text",
+                    "parent": "467388017804574722",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387995838742528",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387996375744512",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387998825086978",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388034992701450",
+                    "position": 1
+                },
+                {
+                    "name": "cracking-methods",
+                    "type": "text",
+                    "parent": "467388015866675200",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388027275313152",
+                    "position": 1
+                },
+                {
+                    "name": "bot",
+                    "type": "text",
+                    "parent": "none",
+                    "permissionOverwrites": [],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467348694027730944",
+                    "position": 0
+                },
+                {
+                    "name": "valuable-resources",
+                    "type": "text",
+                    "parent": "467388017804574722",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387995838742528",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387996375744512",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387998825086978",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388047760162817",
+                    "position": 3
+                },
+                {
+                    "name": "gen-0060",
+                    "type": "text",
+                    "parent": "467388018387451945",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387996627402762",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387998435147786",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388050511757343",
+                    "position": 1
+                },
+                {
+                    "name": "refund-methods",
+                    "type": "text",
+                    "parent": "467388018932580372",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388059009417217",
+                    "position": 2
+                },
+                {
+                    "name": "Tickets",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387996627402762",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467388018387451945",
+                    "position": 8
+                },
+                {
+                    "name": "Voice Channels",
+                    "type": "category",
+                    "parent": "none",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467388016797679616",
+                    "position": 6
+                },
+                {
+                    "name": "guests",
+                    "type": "text",
+                    "parent": "467388016336568320",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388045814136852",
+                    "position": 7
+                },
+                {
+                    "name": "staff-talk",
+                    "type": "text",
+                    "parent": "467388015262564353",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387995838742528",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387996375744512",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000897204224",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388046678032394",
+                    "position": 1
+                },
+                {
+                    "name": "refund-advices",
+                    "type": "text",
+                    "parent": "467388018932580372",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388025723420683",
+                    "position": 1
+                },
+                {
+                    "name": "se-showoff",
+                    "type": "text",
+                    "parent": "467388016864919563",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387998825086978",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388042882318336",
+                    "position": 1
+                },
+                {
+                    "name": "Cracker testing room",
+                    "type": "voice",
+                    "parent": "467388016797679616",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387996375744512",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387995838742528",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387996627402762",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000641482772",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        }
+                    ],
+                    "id": "467388053204238336",
+                    "bitrate": 64000,
+                    "userLimit": 0,
+                    "position": 1
+                },
+                {
+                    "name": "rep-review",
+                    "type": "text",
+                    "parent": "467388016864919563",
+                    "permissionOverwrites": [
+                        {
+                            "id": "467387999907348480",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387998825086978",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999056035881",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467387999311757325",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001815756814",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001262239764",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388000154943509",
+                            "type": "role"
+                        },
+                        {
+                            "id": "467388001584939029",
+                            "type": "role"
+                        }
+                    ],
+                    "topic": null,
+                    "nsfw": false,
+                    "id": "467388043288903681",
+                    "position": 4
+                }
+            ],
+            "members": [
+                "198536269586890752",
+                "326358875840184321",
+                "436660351254265856",
+                "467077498535018506"
+            ],
+            "roles": [
+                {
+                    "name": "Admin",
+                    "color": 10038562,
+                    "hoist": false,
+                    "position": 23,
+                    "permissions": 2146958591,
+                    "mentionable": false,
+                    "id": "467325148823945217"
+                },
+                {
+                    "name": "Admin",
+                    "color": 16711680,
+                    "hoist": true,
+                    "position": 22,
+                    "permissions": 2146958591,
+                    "mentionable": true,
+                    "id": "467387995838742528"
+                },
+                {
+                    "name": "B0TS",
+                    "color": 0,
+                    "hoist": true,
+                    "position": 21,
+                    "permissions": 104324169,
+                    "mentionable": false,
+                    "id": "467387996086206464"
+                },
+                {
+                    "name": "Staff",
+                    "color": 3447003,
+                    "hoist": true,
+                    "position": 20,
+                    "permissions": 2146958591,
+                    "mentionable": true,
+                    "id": "467387996375744512"
+                },
+                {
+                    "name": "Helper",
+                    "color": 15844367,
+                    "hoist": true,
+                    "position": 19,
+                    "permissions": 1580719199,
+                    "mentionable": true,
+                    "id": "467387996627402762"
+                },
+                {
+                    "name": "Gaius Cicereius+",
+                    "color": 0,
+                    "hoist": true,
+                    "position": 18,
+                    "permissions": 289864,
+                    "mentionable": false,
+                    "id": "467387996765945858"
+                },
+                {
+                    "name": "Modulo",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 17,
+                    "permissions": 536210558,
+                    "mentionable": false,
+                    "id": "467387997742956574"
+                },
+                {
+                    "name": "Tickety",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 16,
+                    "permissions": 262216,
+                    "mentionable": false,
+                    "id": "467387998007459863"
+                },
+                {
+                    "name": "Auttaja",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 15,
+                    "permissions": 2113404159,
+                    "mentionable": false,
+                    "id": "467387998212718602"
+                },
+                {
+                    "name": "Support Team",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 14,
+                    "permissions": 104324161,
+                    "mentionable": false,
+                    "id": "467387998435147786"
+                },
+                {
+                    "name": "Trade Banned",
+                    "color": 1249810,
+                    "hoist": false,
+                    "position": 13,
+                    "permissions": 104193089,
+                    "mentionable": true,
+                    "id": "467387998774755328"
+                },
+                {
+                    "name": "Top Notch!",
+                    "color": 16733986,
+                    "hoist": true,
+                    "position": 12,
+                    "permissions": 104324161,
+                    "mentionable": true,
+                    "id": "467387998825086978"
+                },
+                {
+                    "name": "Cracker",
+                    "color": 14300624,
+                    "hoist": true,
+                    "position": 11,
+                    "permissions": 641059905,
+                    "mentionable": true,
+                    "id": "467387999056035881"
+                },
+                {
+                    "name": "Refunder",
+                    "color": 2779391,
+                    "hoist": true,
+                    "position": 10,
+                    "permissions": 104193089,
+                    "mentionable": true,
+                    "id": "467387999311757325"
+                },
+                {
+                    "name": "Social Engineer",
+                    "color": 3066993,
+                    "hoist": true,
+                    "position": 9,
+                    "permissions": 37084225,
+                    "mentionable": true,
+                    "id": "467387999907348480"
+                },
+                {
+                    "name": "Applicant",
+                    "color": 3735551,
+                    "hoist": true,
+                    "position": 8,
+                    "permissions": 37084225,
+                    "mentionable": true,
+                    "id": "467388000154943509"
+                },
+                {
+                    "name": "Cracker Test",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 7,
+                    "permissions": 104324161,
+                    "mentionable": false,
+                    "id": "467388000641482772"
+                },
+                {
+                    "name": "Gatekeeper",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 6,
+                    "permissions": 262208,
+                    "mentionable": false,
+                    "id": "467388000897204224"
+                },
+                {
+                    "name": "Gatekeeper",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 5,
+                    "permissions": 262208,
+                    "mentionable": false,
+                    "id": "467388001262239764"
+                },
+                {
+                    "name": "Gatekeeper",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 4,
+                    "permissions": 262208,
+                    "mentionable": false,
+                    "id": "467388001584939029"
+                },
+                {
+                    "name": "Gatekeeper",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 3,
+                    "permissions": 262208,
+                    "mentionable": false,
+                    "id": "467388001815756814"
+                },
+                {
+                    "name": "PollBot",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 2,
+                    "permissions": 289856,
+                    "mentionable": false,
+                    "id": "467388002256027650"
+                },
+                {
+                    "name": "Black Jack Backup",
+                    "color": 0,
+                    "hoist": false,
+                    "position": 1,
+                    "permissions": 2080898303,
+                    "mentionable": false,
+                    "id": "467388002457616394"
+                }
+            ]
+        }
+    ]
+]
